@@ -4,6 +4,8 @@ name: Test in develop
 on:
   push:
     branches: [ develop ]
+  pull_request:
+    branches: [ main ]
 
 jobs:
 
