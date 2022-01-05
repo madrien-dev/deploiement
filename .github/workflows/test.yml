@@ -3,7 +3,7 @@ name: Test in develop
 
 on:
   push:
-    branches: [ develp ]
+    branches: [ develop ]
 
 jobs:
 
